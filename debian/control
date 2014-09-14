@@ -1,0 +1,12 @@
+Source: ros-indigo-cv-backports
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libopencv-dev, libqt4-dev, libqtgui4, ros-indigo-catkin, ros-indigo-roslib
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cv-backports
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libopencv-dev, libqtgui4, ros-indigo-roslib
+Description: Backporting features from the 2.4.x.y series of opencv releases to indigo.
