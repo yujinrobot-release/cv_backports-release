@@ -1,0 +1,32 @@
+ros-indigo-cv-backports (0.1.4-0trusty) trusty; urgency=high
+
+  * fix qt dependency lookup in cmake
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 16 Mar 2016 15:00:00 -0000
+
+ros-indigo-cv-backports (0.1.3-0trusty) trusty; urgency=high
+
+  * Install rules for headers.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 22 Sep 2014 15:00:00 -0000
+
+ros-indigo-cv-backports (0.1.2-0trusty) trusty; urgency=high
+
+  * Bugfix hanging problems due to global variable name conflicts with opencv.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 16 Sep 2014 15:00:00 -0000
+
+ros-indigo-cv-backports (0.1.1-0trusty) trusty; urgency=high
+
+  * bugfix parallel thread support
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 14 Sep 2014 15:00:00 -0000
+
+ros-indigo-cv-backports (0.1.0-0trusty) trusty; urgency=high
+
+  * pull in 2.4.9.2 parallel qt threading support for imshows
+  * pull in 2.4.9.1 zoomable imshows
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 14 Sep 2014 15:00:00 -0000
+
+
