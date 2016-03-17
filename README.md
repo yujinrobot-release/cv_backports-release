@@ -1,3 +1,24 @@
+## cv_backports (indigo) - 0.1.4-0
+
+The packages in the `cv_backports` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo cv_backports` on `Thu, 17 Mar 2016 06:29:08 -0000`
+
+The `cv_backports` package was released.
+
+Version of package(s) in repository `cv_backports`:
+- upstream repository: https://github.com/stonier/cv_backports.git
+- release repository: https://github.com/yujinrobot-release/cv_backports-release.git
+- rosdistro version: `0.1.3-0`
+- old version: `0.1.3-0`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.35`
+
+
 ## cv_backports (jade) - 0.1.3-0
 
 The packages in the `cv_backports` repository were released into the `jade` distro by running `/usr/bin/bloom-release cv_backports --track jade --rosdistro jade --new-track` on `Fri, 10 Jul 2015 07:37:18 -0000`
